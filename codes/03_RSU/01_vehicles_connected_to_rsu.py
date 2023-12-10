@@ -112,8 +112,8 @@ if __name__ == "__main__":
     rsu2.connected_vehicles = [vehicle2, vehicle4]
 
     # Example data sending from RSUs to connected vehicles
-    rsu1.send_data("Hello from RSU1", destination_vehicle_ids=[vehicle1.vehicle_id, vehicle3.vehicle_id])
-    rsu2.send_data("Hello from RSU2", destination_vehicle_ids=[vehicle2.vehicle_id, vehicle4.vehicle_id])
+    rsu1.send_data("Message from RSU1", destination_vehicle_ids=[vehicle1.vehicle_id, vehicle3.vehicle_id])
+    rsu2.send_data("Message from RSU2", destination_vehicle_ids=[vehicle2.vehicle_id, vehicle4.vehicle_id])
 
     # Example data receiving in vehicles
     time.sleep(0.5)  # Wait for messages to be processed
