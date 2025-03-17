@@ -1,5 +1,9 @@
 # AutoCare - Emergency Health Detection and Collaborative Autonomous Driving Support in Autonomous Cars - Capstone Project
 
+## Presentation  
+For a detailed presentation of the project, check the **[Capstone Presentation](https://github.com/dilektayli/capstone-autocare-tubitak2209A/blob/main/final/capstone_dilek_tayli.pptx)**.  
+
+
 ## Overview  
 This project is part of the **TÜBİTAK 2209-A University Students Research Projects Support Program** and focuses on **post-emergency actions in autonomous vehicles**. While many studies have explored detecting emergencies like heart attacks or seizures in drivers, fewer have addressed **what happens next**. This project develops **communication modules and emergency decision-making mechanisms** to enhance autonomous vehicle safety.
 
